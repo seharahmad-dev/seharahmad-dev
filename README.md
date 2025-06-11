@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to My Digital Universe! 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&height=100&lines=Hi+there%2C+I'm+Sehar+Ahmad!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;ML+Enthusiast+%F0%9F%A4%96;Code+Wizard+%E2%9C%A8;Always+Building+Something+Cool!+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&height=100&lines=Hi+there%2C+I'm+Sehar+Ahmad!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;ML+Enthusiast+%F0%9F%A4%96;Always+Building+Something+Cool!+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
